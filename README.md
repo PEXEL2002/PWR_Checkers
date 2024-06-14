@@ -16,7 +16,7 @@ Projekt to gra w warcaby stworzona w języku C++ z wykorzystaniem biblioteki Win
 ## Uruchomienie
 Instrukcje dotyczące kompilacji i uruchomienia projektu:
 ```bash
-# Kompilacja
+# Kompilacja![img.png](img.png)
 g++ -o checkers main.cpp -lstdc++ -lgdi32 -luser32
 # Uruchomienie
 ./checkers
